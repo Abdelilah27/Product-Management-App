@@ -1,7 +1,8 @@
 # Product Management App
 Building a Simple product management App Using Flutter.
 
-![product](https://user-images.githubusercontent.com/71185753/154866807-d0536f94-6ffd-48bf-963a-3a54cfbb3eff.gif)
+<img src="https://user-images.githubusercontent.com/71185753/154866807-d0536f94-6ffd-48bf-963a-3a54cfbb3eff.gif" width="350">
+
 
 ## Getting Started
 
