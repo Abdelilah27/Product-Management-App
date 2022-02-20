@@ -1,7 +1,5 @@
 # Product Management App
 
-## Screenshot 
-
 ![product](https://user-images.githubusercontent.com/71185753/154866807-d0536f94-6ffd-48bf-963a-3a54cfbb3eff.gif)
 
 ## Getting Started
