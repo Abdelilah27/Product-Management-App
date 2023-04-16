@@ -1,18 +1,29 @@
 # Product Management App
-Building a Simple product management App Using Flutter.
+
+This is a mobile application for managing product inventory, created with Flutter.
+
+## Features
+
+* Add, update, and delete products
+* Search and filter products by name, category, and price
+* View detailed product information, including name, description, price, and image
+
+## Screenshots
 
 <img src="https://user-images.githubusercontent.com/71185753/154866807-d0536f94-6ffd-48bf-963a-3a54cfbb3eff.gif" width="350">
 
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this app, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Contributing
 
-For help getting started with Flutter, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Contributions to this project are welcome! Here are a few ways you can help:
+
+* Report bugs and make suggestions for improvements by opening an issue.
+* Help with testing and QA.
+* Submit pull requests to add new features or fix bugs.
